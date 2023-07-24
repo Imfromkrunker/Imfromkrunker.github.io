@@ -1,4 +1,4 @@
-import * from "./start/addRequire.js";
+import from "./start/addRequire.js";
 const http = require('http');
 const fetch = require('node-fetch');
 const fs = require('fs');
